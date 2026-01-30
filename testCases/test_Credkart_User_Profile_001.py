@@ -237,5 +237,3 @@ class Test_User_Profile :
 
 # ETL Revision --> After 8th feb
 
-
-# HR log 3 lpa --> offer letter 10 lpa
