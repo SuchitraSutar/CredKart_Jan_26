@@ -1,3 +1,5 @@
+
+
 import allure
 import pytest
 
@@ -6,7 +8,6 @@ from pageObjects.Login_Page import Login_Page_Class
 from utilities.Logger import log_generator_class
 from utilities.ReadProperties import ReadConfigClass
 from utilities.XLUtils import Excel_methods
-
 
 @pytest.mark.usefixtures("browser_setup") # New
 class Test_User_Profile :
