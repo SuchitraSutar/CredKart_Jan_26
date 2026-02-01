@@ -1,0 +1,8 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The msedgedriver version (143.0.3650.96) detected in PATH at C:\Users\suchi\AppData\Local\Programs\Python\Python314\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (144.0.3719.92); currently, msedgedriver 144.0.3719.104 is recommended for MicrosoftEdge 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:91 Testcase test_Credkart_login_002 is started
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:93 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:102 Entering the Email Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:109 Entering the password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:115 Clicking on login button
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:135 Checking the login status
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:137 User login successful and taking screenshot

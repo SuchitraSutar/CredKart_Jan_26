@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="96c7b7c7-ddcb-484d-90de-01d6d3064678" name="Changes" comment="edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_reports/my_report_1st" beforeDir="false" afterPath="$PROJECT_DIR$/Html_reports/my_report_1st" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_reports/my_report_28th_jan_2026.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html_reports/my_report_28th_jan_2026.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/CredKart.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/CredKart.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/User Login Fail_Credencetest@test.com.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/User Login Fail_Credencetest@test.com.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/User Login Fail_Credencetest@test.com11.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/User Login Fail_Credencetest@test.com11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/User Login Successful_Credencetest@test.com.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/User Login Successful_Credencetest@test.com.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_verify_Credkart_url_001_pass.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_verify_Credkart_url_001_pass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Data/Credkart_Test_Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Data/Credkart_Test_Data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

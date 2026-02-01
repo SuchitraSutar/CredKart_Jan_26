@@ -1,0 +1,16 @@
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:35 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:37 Reading data from excel
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:39 Number of rows in excel is 5
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:44 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:49 Entering the Email Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:51 Entering the password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:53 Clicking on login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:55 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:57 User login successful and taking screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:62 Clicking on menu button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:64 Clicking on logout button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:35 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:37 Reading data from excel
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:39 Number of rows in excel is 5
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:44 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:49 Entering the Email Credencetest@test.com
